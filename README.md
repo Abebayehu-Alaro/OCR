@@ -1,4 +1,4 @@
-# AUTOMATED COURSE REGISTRATION & RESULT PROCESSING SYSTEM
-Automated_Course_registration_and_Result_Processing_System
+# OCR for Digits
+Optical Character Recognition (OCR) is the process of converting images of text into machine-readable data. OCR can be applied to various types of text, such as handwritten, printed, or typed. One common application of OCR is to recognize handwritten digits, such as those found in forms, invoices, or checks.
 
-Automated course registration and result processing system is a software that facilitates the student’s course registration and processing of examination result. It will build in an automated information system capability that will ease the stress and enhance all the activities involved in course registration and result processing.
+One way to perform OCR on handwritten digits is to use a machine learning model that can learn from a large dataset of labeled digit images and then predict the digit for a new image. A popular dataset for this task is the https://www.bing.com/search?form=SKPBOT&q=MNIST%20dataset, which contains 70,000 gray-scale images of hand-drawn digits from zero to nine https://scikit-learn.org/stable/auto_examples/classification/plot_digits_classification.html. Each image is 28 by 28 pixels and has a corresponding label indicating the digit.
